@@ -2,7 +2,7 @@
 
 This repository contains my solutions to CS50 problems. The solutions are organized by problem title.
 
-Each problem solution is contained within its own folder named after the problem's number. Inside each folder, you'll find the solution file(s) along with any necessary additional resources.
+Each problem solution is contained within its own folder named after the problem's name. Inside each folder, you'll find the solution file(s) along with any necessary additional resources.
 
 ## Disclaimer
 
